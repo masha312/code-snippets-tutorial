@@ -1,0 +1,16 @@
+{
+  "name": "code snippets tutorial",
+  "id": "1278084570014896289",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
